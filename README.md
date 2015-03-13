@@ -1,5 +1,7 @@
 # PROPAGATE
 
+![PROPAGATE](https://s3.amazonaws.com/f.cl.ly/items/1C2T0T2l051I1i3u211R/skitch.jpg)
+
 This is a Chrome extension intended to streamline and automate some processes for us at Coupa. It's probably not going to be useful to anyone outside our team, but the code and patterns may be interesting if you're trying to do something similar.
 
 ## Contributing
