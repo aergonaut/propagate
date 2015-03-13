@@ -2,6 +2,17 @@
 
 This is a Chrome extension intended to streamline and automate some processes for us at Coupa. It's probably not going to be useful to anyone outside our team, but the code and patterns may be interesting if you're trying to do something similar.
 
+## Contributing
+
+Pull requests for new features or bug fixes are welcome!
+
+To build the extension in order to test it out:
+
+1. Install [Gulp](https://github.com/gulpjs/gulp) globally to get access to the command-line tool: `npm install -g gulp`
+2. Build the extension: `gulp`
+3. Open [chrome://extensions](chrome://extensions) in Chrome.
+4. Enable Developer Mode and then click Load unpacked extension and select the `dist` directory.
+
 ## License
 
 The MIT License (MIT)
